@@ -1,7 +1,7 @@
 # Probability & Statistics — GitHub Classroom (Practice Mode)
 
 
-#Note : Tugas saya berada pada git repositori tyawabackup 
+# Note : Tugas saya berada pada git repositori tyawabackup 
 Berikut merupakan linknya : https://github.com/II-2111-2026/tugas-tyawabackup 
 Terdapat disitu, disini gak akan diupdate karena terdapat masalah invitation
 
